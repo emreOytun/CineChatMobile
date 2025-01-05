@@ -38,3 +38,8 @@ To run the project on your own device download the apk
 
 1. The requirements.txt file contains the necessary versions to run RAG and backend codes written in Python.
 2. After completing the installations, simply run the appllm.py file.
+
+## Demo Video
+
+[Watch the project demo on YouTube](https://www.youtube.com/watch?feature=shared&v=Q5oloQnzzVM)
+
