@@ -4,6 +4,14 @@ CineMobile is a Flutter-based mobile application designed to provide information
 
 ---
 
+# Live
+
+You can play with the testbot with the link below.
+Note that it requires 1 minute to startup after trigger because it goes idle when it is not used.
+https://cinechatrag.onrender.com/
+
+---
+
 ## Prerequisites
 
 1. Ensure you have the [Flutter SDK](https://flutter.dev/docs/get-started/install) installed on your system.
